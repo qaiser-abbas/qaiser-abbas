@@ -42,6 +42,18 @@ data structures..
 - 🌐 [Portfolio](https://qaiser-abbas-portfolio.web.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/qaiser-abbas-a28419270)
 
+---
+
+## 🔥 Streak Stats  
+
+<p align="center">
+  <a href="https://github.com/Moeed-Farooq">
+    <img alt="Qaiser's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiser-abbas&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
+
+---
+
 ## 💻 GitHub Profile Stats  
 
 <p align="center">
@@ -51,5 +63,13 @@ data structures..
 </p>
 
 ---
+
+## 📊 GitHub Activity Graph  
+
+<p align="center">
+  <a href="https://github.com/Moeed-Farooq">
+    <img alt="Qaiser's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=qaiser-abbas&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+  </a>
+</p>
 
 Thanks for stopping by!
