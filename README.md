@@ -10,11 +10,11 @@ data structures..
 
 ## 💻 Tech Expertise
 
-- **Backend:** PHP, Laravel, CodeIgniter, Node.js, Express.js  
-- **Frontend:** Vue.js, React.js, JavaScript, TypeScript, Bootstrap, Tailwind CSS  
+- **Backend:** PHP, Laravel, CodeIgniter, Node.js, Express.js,Nest.js  
+- **Frontend:** Vue.js, React.js,React Native, JavaScript, TypeScript, Bootstrap, Tailwind CSS  
 - **CMS & eCommerce:** WordPress (Custom Themes & Plugins), WooCommerce  
 - **DevOps & Tools:** Docker, CI/CD, Git, Firebase, REST APIs  
-- **Data & Search:** Elasticsearch, MongoDB, MySQL, Big Data Optimization  
+- **Data & Search:** Elasticsearch, MongoDB, MySQL,PostgreSQL,Firebase, Big Data Optimization  
 - **Others:** ACF Pro, Payment Gateways, Social Login, JWT Auth, Push Notifications
 
 ## 🚀 What I Build
