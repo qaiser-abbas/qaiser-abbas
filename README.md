@@ -47,7 +47,7 @@ data structures..
 ## 🔥 Streak Stats  
 
 <p align="center">
-  <a href="https://github.com/Moeed-Farooq">
+  <a href="https://github.com/qaiser-abbas">
     <img alt="Qaiser's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=qaiser-abbas&theme=monokai-metallian&hide_border=true"/>
   </a>
 </p>
